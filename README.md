@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React , MERN**
 
-- 📫 How to reach me **meanandjyoti@gmail.com**
+- 📫 How to reach me  : **meanandjyoti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
