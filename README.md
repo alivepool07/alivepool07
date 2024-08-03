@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alivepool07&label=Profile%20views&color=0e75b6&style=flat" alt="alivepool07" /> </p>
 
-- 💬 Ask me about **React , MERN**
+- 💬 Ask me about **MERN**
 - **Learning Spring Boot**
 - 📫 How to reach me  : **meanandjyoti@gmail.com**
 
