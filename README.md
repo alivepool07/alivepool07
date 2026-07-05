@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/seriousl____ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seriousl____ly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/jyoti-anand-70b093232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jyoti-anand-70b093232" height="30" width="40" /></a>
-<a href="https://instagram.com/__paradox.exe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__paradox.exe_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/serious____ly/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__paradox.exe_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/_jyoti_anand_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="_jyoti_anand_" height="30" width="40" /></a>
 </p>
 
